@@ -1,0 +1,9 @@
+// entry point of the application
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Welcome to student API")
+
+}
